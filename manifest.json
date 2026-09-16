@@ -1,0 +1,17 @@
+{
+  "name": "Entrenamiento IA",
+  "short_name": "Entreno IA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "description": "Rutina, progreso y análisis de entrenamiento.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

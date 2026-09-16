@@ -1,0 +1,9 @@
+{
+  "name": "entrenamiento-ia",
+  "version": "2.0.0",
+  "private": true,
+  "description": "PWA de seguimiento de entrenamiento con IA",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
